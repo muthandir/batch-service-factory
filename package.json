@@ -1,0 +1,19 @@
+{
+  "name": "batch-service-factory",
+  "version": "1.0.0",
+  "description": "Batch Service Factory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ogm-crbt",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "logged-promise": "^1.0.14",
+    "logged-request-promise": "^1.0.22",
+    "mysql": "^2.15.0",
+    "request": "^2.83.0",
+    "sequelize-batch-model-factory": "^1.0.31"
+  }
+}
